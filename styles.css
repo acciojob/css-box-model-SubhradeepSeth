@@ -8,8 +8,8 @@
 }
 .box{
 	width:300px;
-	background-color:#02adbf;
-	border:15px solid blue;
+	background-color:rgb(173, 216, 230);
+	border:15px solid rgb(0, 0, 255);
 	padding:50px;
 	margin:20px;
 }
